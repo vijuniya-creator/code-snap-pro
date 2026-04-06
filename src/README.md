@@ -1,6 +1,6 @@
 # 📸 Code Snap Pro
 
-![App Screenshot](./app-screenshot.png)
+![App Screenshot](./screenshot.png)
 
 A sleek, React-powered web application that turns raw source code into beautiful, visually appealing images with syntax highlighting and aesthetic gradients. Perfect for sharing code on blogs or social media!
 
